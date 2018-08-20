@@ -1,0 +1,1 @@
+(Get-Service | where { $_.Name -eq "Zabbix Agent" }).Length -eq 0

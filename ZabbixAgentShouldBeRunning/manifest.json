@@ -2,6 +2,9 @@
   "name": "ZabbixAgentShouldBeRunning",
   "descriptionRef": "https://confluence.blahblahcomp.com/pages/viewpage.action?pageId=294588832",
   "author": "blebeda",
+  "fallback": [ 
+    "ZabbixAgentShouldBeInstalled"
+  ],
   "approvedByCA": "true",
   "decommissioned": "false"
 }
