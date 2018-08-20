@@ -1,0 +1,1 @@
+(Get-Service "Zabbix Agent").Status -eq [System.ServiceProcess.ServiceControllerStatus]::Running

@@ -1,0 +1,7 @@
+{
+  "name": "ZabbixAgentShouldBeRunning",
+  "descriptionRef": "https://confluence.blahblahcomp.com/pages/viewpage.action?pageId=294588832",
+  "author": "blebeda",
+  "approvedByCA": "true",
+  "decommissioned": "false"
+}
